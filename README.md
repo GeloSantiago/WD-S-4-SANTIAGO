@@ -61,15 +61,23 @@
 In 2024, Anta and Nike continue to lead in basketball footwear with their signature lines for Kyrie Irving and LeBron James. The Anta Kyrie shoes combine advanced cushioning and innovative materials with bold designs reflecting Irving's style. LeBron James' Nike shoes offer top-notch performance features, including responsive cushioning and robust support, showcasing his influence and Nike's innovation. Both lines deliver exceptional traction, comfort, and style, catering to high-intensity play and reflecting the athletes' legacies.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- Always prefix the project title with "WD-" followed by your custom naming.
+- Do not rename any .html files; always use index.html as the filename.
+- Ensure files are placed in their respective folders.
+- Use camel case for all file naming.
+- Camel case is a naming format where there are no spaces between words; the first word is all lowercase, and the first letter of each subsequent word is uppercase followed by lowercase letters. Example: style.css
+- Use only external CSS.
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website
+- Hover Effect
+- Cards Design
+- Features design
+- Interactive Elements
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
