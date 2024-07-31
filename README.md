@@ -9,11 +9,11 @@
     <img src="https://tse4.mm.bing.net/th?id=OIP.uWkwL8wWRyyyo8h4s6v1vQHaGT&pid=Api&P=0&h=220" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Feature Display</h3>
+  <h3 align="center">feature Displays</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This Features Display Website uses HTML, CSS, and JavaScript. It includes dynamic backgrounds with CSS animations and an interactive decision point for choosing between UI/UX design and web development adittional of feature info of the professional basketball signature shoes on the pages.
+  This Features Display Website uses HTML, CSS, and JavaScript. It includes dynamic backgrounds with CSS animations and an interactive decision point for choosing between UI/UX design and web development adittional of feature info of the professional basketball signature shoes on the g!ven pages.
 
 </div>
 
