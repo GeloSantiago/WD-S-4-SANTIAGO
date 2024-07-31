@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/GeloSantiago">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="">https://tse4.mm.bing.net/th?id=OIP.uWkwL8wWRyyyo8h4s6v1vQHaGT&pid=Api&P=0&h=220
+    <img src="">https://tse4.mm.bing.net/th?id=OIP.uWkwL8wWRyyyo8h4s6v1vQHaGT&pid=Api&P=0&h=220 width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">WD-S-4-SANTIAGO</h3>
